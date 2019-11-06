@@ -1,0 +1,11 @@
+C:\Users\rzili\source\repos\LabEight\LabEight\bin\Debug\netcoreapp3.0\LabEight.exe
+C:\Users\rzili\source\repos\LabEight\LabEight\bin\Debug\netcoreapp3.0\LabEight.deps.json
+C:\Users\rzili\source\repos\LabEight\LabEight\bin\Debug\netcoreapp3.0\LabEight.runtimeconfig.json
+C:\Users\rzili\source\repos\LabEight\LabEight\bin\Debug\netcoreapp3.0\LabEight.runtimeconfig.dev.json
+C:\Users\rzili\source\repos\LabEight\LabEight\bin\Debug\netcoreapp3.0\LabEight.dll
+C:\Users\rzili\source\repos\LabEight\LabEight\bin\Debug\netcoreapp3.0\LabEight.pdb
+C:\Users\rzili\source\repos\LabEight\LabEight\obj\Debug\netcoreapp3.0\LabEight.csprojAssemblyReference.cache
+C:\Users\rzili\source\repos\LabEight\LabEight\obj\Debug\netcoreapp3.0\LabEight.AssemblyInfoInputs.cache
+C:\Users\rzili\source\repos\LabEight\LabEight\obj\Debug\netcoreapp3.0\LabEight.AssemblyInfo.cs
+C:\Users\rzili\source\repos\LabEight\LabEight\obj\Debug\netcoreapp3.0\LabEight.dll
+C:\Users\rzili\source\repos\LabEight\LabEight\obj\Debug\netcoreapp3.0\LabEight.pdb
